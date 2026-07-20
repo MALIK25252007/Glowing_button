@@ -6,7 +6,7 @@ A collection of vibrant, neon, and glowing button hover effects built using **pu
 
 ## 🚀 Live Demo
 
-Check out the interactive preview: ****
+Check out the interactive preview: **https://MALIK25252007.github.io/Glowing_button/**
 
 ---
 
@@ -25,3 +25,23 @@ Check out the interactive preview: ****
 ├── index.html        # Showcase page for all glowing styles
 ├── style.css         # Core animations and glow effects
 └── README.md         # Documentation
+<br><br><br>
+🤝 Contributing
+Got a cool glow effect idea? Feel free to contribute!
+
+1. Fork the project.
+
+2. Create your feature branch (git checkout -b feature/NewGlowEffect).
+
+3. Commit your updates (git commit -m 'Add NewGlowEffect').
+
+4. Push to the branch (git push origin feature/NewGlowEffect).
+
+5. Open a Pull Request.
+
+📄 License
+Distributed under the MIT License. Free for personal and commercial projects!
+
+⭐ If you like this project, consider giving it a star on GitHub!
+
+Created with 💖 by Tarun Malik
