@@ -40,7 +40,7 @@ Got a cool glow effect idea? Feel free to contribute!
 5. Open a Pull Request.
 
 📄 License
-Distributed under the MIT License. Free for personal and commercial projects!
+ Free for personal and commercial projects!
 
 ⭐ If you like this project, consider giving it a star on GitHub!
 
