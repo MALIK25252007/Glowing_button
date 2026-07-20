@@ -25,7 +25,7 @@ Check out the interactive preview: **https://MALIK25252007.github.io/Glowing_but
 ├── index.html        # Showcase page for all glowing styles
 ├── style.css         # Core animations and glow effects
 └── README.md         # Documentation
-<br><br><br>
+
 🤝 Contributing
 Got a cool glow effect idea? Feel free to contribute!
 
