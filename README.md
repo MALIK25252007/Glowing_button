@@ -6,7 +6,7 @@ A collection of vibrant, neon, and glowing button hover effects built using **pu
 
 ## 🚀 Live Demo
 
-Check out the interactive preview: **https://MALIK25252007.github.io/Glowing_button/**
+Check out the interactive preview: **https://MALIK25252007.github.io/Glow-button/**
 
 ---
 
